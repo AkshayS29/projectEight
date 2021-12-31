@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #c6d8dd;
+  margin: 60px auto;
+  text-align: center;
+}
+h1 {
+  padding-top: 100px;
+  color: #bd1a22;
+  font-weight: 100;
+}
+
+.inputbox {
+  border: 1px solid #f6f8fa;
+  padding: 10px;
+  width: 450px;
+  background-color: #202020;
+  margin: 10px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: lighter;
+  outline: none;
+}
+.list {
+  color: #114f8d;
+  font-size: 20px;
+  padding-top: 50px;
+}
